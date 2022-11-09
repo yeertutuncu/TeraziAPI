@@ -1,3 +1,4 @@
+DENSI FS8000 Terazi için üretilen, masaüstünde systemTray'da çalışan, WebApi yardımıyla veri yayınlayan bir yazılımdır
 # TeraziAPI
 DENSI FS8000 Terazi için üretilen, masaüstünde systemTray'da çalışan, WebApi yardımıyla veri yayınlayan bir yazılımdır
 
